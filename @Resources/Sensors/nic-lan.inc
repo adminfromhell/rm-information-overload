@@ -1,0 +1,7 @@
+[Variables]
+NIC1-Sensor-ID=0xf000ea00
+NIC1-Sensor-Instance=0x0
+NIC1-Total-DL=0x8000000
+NIC1-Total-UP=0x8000001
+NIC1-Current-DL=0x8000002
+NIC1-Current-UP=0x8000003

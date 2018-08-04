@@ -1,0 +1,11 @@
+[Variables]
+Font=Arimo
+FontColor1=FF0000
+FontColor2=000000
+FontColor3=FFFFFF
+FontSize1=8
+FontSize2=12
+FontSize3=24
+FontLight=300
+FontNormal=400
+FontBold=700

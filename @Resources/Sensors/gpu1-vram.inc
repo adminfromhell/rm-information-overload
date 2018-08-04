@@ -1,0 +1,12 @@
+[Variables]
+; GPU Sensor IDs
+GPUV1-Sensor-ID=0xe0001a03
+GPUV1-Sensor-Instance=0x1b
+GPUV1-Temp-1=0x1000000
+GPUV1-Temp-2=0x1000001
+GPUV1-Volt-Out=0x2000000
+GPUV1-Volt-In=0x2000001
+GPUV1-Current-Out=0x4000001
+GPUV1-Current-In=0x4000000
+GPUV1-Power-Out=0x5000000
+GPUV1-Power-In=0x5000001

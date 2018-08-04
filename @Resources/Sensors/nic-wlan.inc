@@ -1,0 +1,7 @@
+[Variables]
+WLAN1-Sensor-ID=0xf000ea00
+WLAN1-Sensor-Instance=0x1
+WLAN1-Total-DL=0x8000000
+WLAN1-Total-UP=0x8000001
+WLAN1-Current-DL=0x8000002
+WLAN1-Current-UP=0x8000003

@@ -1,0 +1,11 @@
+[Variables]
+; DISK Sensor IDs
+DISK1-Sensor-ID=0xf0000101
+DISK1-Sensor-Instance=0x1
+DISK1-Read-Act=0x7000000
+DISK1-Write-Act=0x7000001
+DISK1-Total-Act=0x7000002
+DISK1-Read-Rate=0x8000000
+DISK1-Write-Rate=0x8000001
+DISK1-Read-Total=0x8000002
+DISK1-Write-Total=0x8000003
